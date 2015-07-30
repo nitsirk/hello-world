@@ -1,1 +1,3 @@
 moshi moshi!
+
+arigatou
